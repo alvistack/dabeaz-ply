@@ -1,0 +1,5 @@
+python-ply source: file-without-copyright-information
+python-ply source: no-debian-changes
+python-ply source: source-contains-prebuilt-windows-binary
+python-ply source: source-is-missing
+python-ply source: source-package-encodes-python-version

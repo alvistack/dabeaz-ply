@@ -1,0 +1,4 @@
+python3-ply: copyright-without-copyright-notice
+python3-ply: initial-upload-closes-no-bugs
+python3-ply: no-manual-page
+python3-ply: zero-byte-file-in-doc-directory
